@@ -7,8 +7,8 @@ export default {
   params: {
     dialog: {
       title: undefined,
-      buttonOk: 'OK',
-      buttonCancel: 'Cancel',
+      buttonOk: '确定',
+      buttonCancel: '取消',
       usernamePlaceholder: 'Username',
       passwordPlaceholder: 'Password',
       preloaderTitle: 'Loading... ',
